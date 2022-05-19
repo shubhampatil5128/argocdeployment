@@ -23,5 +23,5 @@ spec:
       - image:  shubhampatil5128/ui
         name:  "react-ui"
         ports:
-          - containerPort: 8081
+          - containerPort: 8080
             name: "react-ui"
